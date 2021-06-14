@@ -1,0 +1,19 @@
+{
+    "name": "RealBizGames.StoreRating.Runtime",
+    "references": [
+        "RealBizGames.Data.Runtime",
+        "RealBizGames.ChainPattern.Runtime",
+        "RealBizGames.RulePattern.Runtime",
+        "Google.Play.Review",
+        "Google.Play.Common"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
