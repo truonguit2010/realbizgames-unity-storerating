@@ -12,7 +12,7 @@ Build a store-rating service. Try to keep it simple for as many projects as poss
 
 # Downloads all of Play Review tarballs
 
-[Inapp Review](https://github.com/truonguit2010/realbizgames-unity-storerating/tree/main/PlayReviewUPM%7E)
+[Download Inapp Review tarball Files](https://github.com/truonguit2010/realbizgames-unity-storerating/tree/main/PlayReviewUPM%7E)
 
 # Reference
 1. https://github.com/google/play-unity-plugins
