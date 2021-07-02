@@ -10,6 +10,10 @@ Build a store-rating service. Try to keep it simple for as many projects as poss
 "com.google.android.appbundle": "file:../GooglePackages/play/com.google.android.appbundle-1.4.1.tgz",
 ```
 
+# Downloads all of Play Review tarballs
+
+[Download Inapp Review tarball Files](https://github.com/truonguit2010/realbizgames-unity-storerating/tree/main/PlayReviewUPM%7E)
+
 # Reference
 1. https://github.com/google/play-unity-plugins
 2. https://developer.android.com/guide/playcore/in-app-review/unity#setup
